@@ -9,7 +9,7 @@ _**DEPLOYMENT**_ -
 Follow the instructions below to set up and deploy the project locally:
 
 1. _Set Up a Folder in VS Code_
-Create a new folder named Deployment in VS Code where all necessary files will be placed.
+Create a new folder named Deployment in VS Code where 'app.py', financial_risk_assessment.csv', and 'Project_Code_final.py' is saved.
 
 2. _Run the Project Code_
 In the folder, run the file Project_code.py to ensure that all necessary dependencies and models are set up correctly.
