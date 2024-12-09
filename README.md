@@ -1,3 +1,6 @@
+_**Course Code - CSL2010
+Mentor - Dr. Avinash Sharma**_
+
 _**DESCRIPTION**_ - 
 This project aims to build a machine learning-based Financial Risk Assessment system to classify individuals or entities into different risk categories (e.g., low, medium, high). The project involved extensive exploratory data analysis (EDA) to understand the dataset and uncover key patterns, followed by preprocessing steps to clean and transform the data for optimal model performance.
 The system leverages various machine learning algorithms, including Logistic Regression, Support Vector Classifier, Decision Trees, Random Forest, and XGBoost, to predict financial risk based on historical financial data. The model also identifies key risk factors using feature importance analysis, providing valuable insights for financial institutions.
